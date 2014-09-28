@@ -1,0 +1,2977 @@
+[
+    {
+        "code": "000",
+        "name": "Blanc White",
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    {
+        "code": "208",
+        "name": "Lavender-VY DK",
+        "r": 148,
+        "g": 91,
+        "b": 128
+    },
+    {
+        "code": "209",
+        "name": "Lavender-DK",
+        "r": 206,
+        "g": 148,
+        "b": 186
+    },
+    {
+        "code": "210",
+        "name": "Lavender-MD",
+        "r": 236,
+        "g": 207,
+        "b": 225
+    },
+    {
+        "code": "211",
+        "name": "Lavender-LT",
+        "r": 243,
+        "g": 218,
+        "b": 228
+    },
+    {
+        "code": "221",
+        "name": "Shell Pink-VY DK",
+        "r": 156,
+        "g": 41,
+        "b": 74
+    },
+    {
+        "code": "223",
+        "name": "Shell Pink-LT",
+        "r": 219,
+        "g": 128,
+        "b": 115
+    },
+    {
+        "code": "224",
+        "name": "Shell Pink-VY LT",
+        "r": 255,
+        "g": 199,
+        "b": 176
+    },
+    {
+        "code": "225",
+        "name": "Shell Pink-ULT VY L",
+        "r": 255,
+        "g": 240,
+        "b": 228
+    },
+    {
+        "code": "300",
+        "name": "Mahogany-VY DK",
+        "r": 143,
+        "g": 57,
+        "b": 38
+    },
+    {
+        "code": "301",
+        "name": "Mahogany-MD",
+        "r": 209,
+        "g": 102,
+        "b": 84
+    },
+    {
+        "code": "304",
+        "name": "Christmas Red-MD",
+        "r": 188,
+        "g": 0,
+        "b": 97
+    },
+    {
+        "code": "307",
+        "name": "Lemon",
+        "r": 255,
+        "g": 231,
+        "b": 109
+    },
+    {
+        "code": "309",
+        "name": "Rose-DP",
+        "r": 214,
+        "g": 43,
+        "b": 91
+    },
+    {
+        "code": "310",
+        "name": "Black",
+        "r": 0,
+        "g": 0,
+        "b": 0
+    },
+    {
+        "code": "311",
+        "name": "Navy Blue-MD",
+        "r": 0,
+        "g": 79,
+        "b": 97
+    },
+    {
+        "code": "312",
+        "name": "Navy Blue-LT",
+        "r": 58,
+        "g": 84,
+        "b": 103
+    },
+    {
+        "code": "315",
+        "name": "Antique Mauve-VY DK",
+        "r": 163,
+        "g": 90,
+        "b": 91
+    },
+    {
+        "code": "316",
+        "name": "Antique Mauve-MD",
+        "r": 220,
+        "g": 141,
+        "b": 141
+    },
+    {
+        "code": "317",
+        "name": "Pewter Grey",
+        "r": 167,
+        "g": 139,
+        "b": 136
+    },
+    {
+        "code": "318",
+        "name": "Steel Grey-LT",
+        "r": 197,
+        "g": 198,
+        "b": 190
+    },
+    {
+        "code": "319",
+        "name": "Pistachio Grn-VY DK",
+        "r": 85,
+        "g": 95,
+        "b": 82
+    },
+    {
+        "code": "320",
+        "name": "Pistachio Green-MD",
+        "r": 138,
+        "g": 153,
+        "b": 120
+    },
+    {
+        "code": "321",
+        "name": "Christmas Red",
+        "r": 231,
+        "g": 18,
+        "b": 97
+    },
+    {
+        "code": "322",
+        "name": "Navy Blue-VY LT",
+        "r": 81,
+        "g": 109,
+        "b": 135
+    },
+    {
+        "code": "326",
+        "name": "Rose-VY DP",
+        "r": 188,
+        "g": 22,
+        "b": 65
+    },
+    {
+        "code": "327",
+        "name": "Violet-DK",
+        "r": 61,
+        "g": 0,
+        "b": 103
+    },
+    {
+        "code": "333",
+        "name": "Blue Violet-VY DK",
+        "r": 127,
+        "g": 84,
+        "b": 130
+    },
+    {
+        "code": "334",
+        "name": "Baby Blue-MD",
+        "r": 115,
+        "g": 140,
+        "b": 170
+    },
+    {
+        "code": "335",
+        "name": "Rose",
+        "r": 219,
+        "g": 36,
+        "b": 79
+    },
+    {
+        "code": "336",
+        "name": "Navy Blue",
+        "r": 36,
+        "g": 73,
+        "b": 103
+    },
+    {
+        "code": "340",
+        "name": "Blue Violet-MD",
+        "r": 162,
+        "g": 121,
+        "b": 164
+    },
+    {
+        "code": "341",
+        "name": "Blue Violet-LT",
+        "r": 145,
+        "g": 180,
+        "b": 197
+    },
+    {
+        "code": "347",
+        "name": "Salmon-VY DK",
+        "r": 194,
+        "g": 36,
+        "b": 67
+    },
+    {
+        "code": "349",
+        "name": "Coral-DK",
+        "r": 220,
+        "g": 61,
+        "b": 91
+    },
+    {
+        "code": "350",
+        "name": "Coral-MD",
+        "r": 237,
+        "g": 69,
+        "b": 90
+    },
+    {
+        "code": "351",
+        "name": "Coral",
+        "r": 255,
+        "g": 128,
+        "b": 135
+    },
+    {
+        "code": "352",
+        "name": "Coral-LT",
+        "r": 255,
+        "g": 157,
+        "b": 144
+    },
+    {
+        "code": "353",
+        "name": "Peach Flesh",
+        "r": 255,
+        "g": 196,
+        "b": 184
+    },
+    {
+        "code": "355",
+        "name": "Terra Cotta-DK",
+        "r": 189,
+        "g": 73,
+        "b": 47
+    },
+    {
+        "code": "356",
+        "name": "Terra Cotta-MD",
+        "r": 226,
+        "g": 114,
+        "b": 91
+    },
+    {
+        "code": "367",
+        "name": "Pistachio Green-DK",
+        "r": 95,
+        "g": 112,
+        "b": 91
+    },
+    {
+        "code": "368",
+        "name": "Pistachio Green-LT",
+        "r": 181,
+        "g": 206,
+        "b": 162
+    },
+    {
+        "code": "369",
+        "name": "Pistachio Grn-VY LT",
+        "r": 243,
+        "g": 250,
+        "b": 209
+    },
+    {
+        "code": "370",
+        "name": "Mustard-MD",
+        "r": 184,
+        "g": 138,
+        "b": 87
+    },
+    {
+        "code": "371",
+        "name": "Mustard",
+        "r": 196,
+        "g": 155,
+        "b": 100
+    },
+    {
+        "code": "372",
+        "name": "Mustard-LT",
+        "r": 203,
+        "g": 162,
+        "b": 107
+    },
+    {
+        "code": "400",
+        "name": "Mahogany-DK",
+        "r": 157,
+        "g": 60,
+        "b": 39
+    },
+    {
+        "code": "402",
+        "name": "Mahogany-VY LT",
+        "r": 255,
+        "g": 190,
+        "b": 164
+    },
+    {
+        "code": "407",
+        "name": "Sportsman Flsh-VY D",
+        "r": 194,
+        "g": 101,
+        "b": 76
+    },
+    {
+        "code": "413",
+        "name": "Pewter Grey-DK",
+        "r": 109,
+        "g": 95,
+        "b": 95
+    },
+    {
+        "code": "414",
+        "name": "Steel Grey-DK",
+        "r": 167,
+        "g": 139,
+        "b": 136
+    },
+    {
+        "code": "415",
+        "name": "Pearl Grey",
+        "r": 221,
+        "g": 221,
+        "b": 218
+    },
+    {
+        "code": "420",
+        "name": "Hazel Nut Brown-DK",
+        "r": 140,
+        "g": 91,
+        "b": 43
+    },
+    {
+        "code": "422",
+        "name": "Hazel Nut Brown-LT",
+        "r": 237,
+        "g": 172,
+        "b": 123
+    },
+    {
+        "code": "433",
+        "name": "Brown-MD",
+        "r": 151,
+        "g": 84,
+        "b": 20
+    },
+    {
+        "code": "434",
+        "name": "Brown-LT",
+        "r": 178,
+        "g": 103,
+        "b": 70
+    },
+    {
+        "code": "435",
+        "name": "Brown-VY LT",
+        "r": 187,
+        "g": 107,
+        "b": 57
+    },
+    {
+        "code": "436",
+        "name": "Tan",
+        "r": 231,
+        "g": 152,
+        "b": 115
+    },
+    {
+        "code": "437",
+        "name": "Tan-LT",
+        "r": 238,
+        "g": 171,
+        "b": 121
+    },
+    {
+        "code": "444",
+        "name": "Lemon-DK",
+        "r": 255,
+        "g": 176,
+        "b": 0
+    },
+    {
+        "code": "445",
+        "name": "Lemon-LT",
+        "r": 255,
+        "g": 255,
+        "b": 190
+    },
+    {
+        "code": "451",
+        "name": "Shell Grey-DK",
+        "r": 179,
+        "g": 151,
+        "b": 143
+    },
+    {
+        "code": "452",
+        "name": "Shell Grey-MD",
+        "r": 210,
+        "g": 185,
+        "b": 175
+    },
+    {
+        "code": "453",
+        "name": "Shell Grey-LT",
+        "r": 235,
+        "g": 207,
+        "b": 185
+    },
+    {
+        "code": "469",
+        "name": "Avocado Green",
+        "r": 116,
+        "g": 114,
+        "b": 92
+    },
+    {
+        "code": "470",
+        "name": "Avocado Green-LT",
+        "r": 133,
+        "g": 143,
+        "b": 108
+    },
+    {
+        "code": "471",
+        "name": "Avocado Green-VY LT",
+        "r": 176,
+        "g": 187,
+        "b": 140
+    },
+    {
+        "code": "472",
+        "name": "Avocado Green-ULT L",
+        "r": 238,
+        "g": 255,
+        "b": 182
+    },
+    {
+        "code": "498",
+        "name": "Christmas Red-LT",
+        "r": 187,
+        "g": 0,
+        "b": 97
+    },
+    {
+        "code": "500",
+        "name": "Blue Green-VY DK",
+        "r": 43,
+        "g": 57,
+        "b": 41
+    },
+    {
+        "code": "501",
+        "name": "Blue Green-DK",
+        "r": 67,
+        "g": 85,
+        "b": 73
+    },
+    {
+        "code": "502",
+        "name": "Blue Green",
+        "r": 134,
+        "g": 158,
+        "b": 134
+    },
+    {
+        "code": "503",
+        "name": "Blue Green-MD",
+        "r": 195,
+        "g": 206,
+        "b": 183
+    },
+    {
+        "code": "504",
+        "name": "Blue Green-LT",
+        "r": 206,
+        "g": 221,
+        "b": 193
+    },
+    {
+        "code": "517",
+        "name": "Wedgewood-MD",
+        "r": 16,
+        "g": 127,
+        "b": 135
+    },
+    {
+        "code": "518",
+        "name": "Wedgewood-LT",
+        "r": 102,
+        "g": 148,
+        "b": 154
+    },
+    {
+        "code": "519",
+        "name": "Sky Blue",
+        "r": 194,
+        "g": 209,
+        "b": 207
+    },
+    {
+        "code": "520",
+        "name": "Fern Green-DK",
+        "r": 55,
+        "g": 73,
+        "b": 18
+    },
+    {
+        "code": "522",
+        "name": "Fern Green",
+        "r": 159,
+        "g": 169,
+        "b": 142
+    },
+    {
+        "code": "523",
+        "name": "Fern Green-LT",
+        "r": 172,
+        "g": 183,
+        "b": 142
+    },
+    {
+        "code": "524",
+        "name": "Fern Green-VY LT",
+        "r": 205,
+        "g": 182,
+        "b": 158
+    },
+    {
+        "code": "535",
+        "name": "Ash Grey-VY LT",
+        "r": 85,
+        "g": 85,
+        "b": 89
+    },
+    {
+        "code": "543",
+        "name": "Beige Brown-UL VY L",
+        "r": 239,
+        "g": 214,
+        "b": 188
+    },
+    {
+        "code": "550",
+        "name": "Violet-VY LT",
+        "r": 109,
+        "g": 18,
+        "b": 97
+    },
+    {
+        "code": "552",
+        "name": "Violet-MD",
+        "r": 146,
+        "g": 85,
+        "b": 130
+    },
+    {
+        "code": "553",
+        "name": "Violet",
+        "r": 160,
+        "g": 100,
+        "b": 146
+    },
+    {
+        "code": "554",
+        "name": "Violet-LT",
+        "r": 243,
+        "g": 206,
+        "b": 225
+    },
+    {
+        "code": "561",
+        "name": "Jade-VY DK",
+        "r": 59,
+        "g": 96,
+        "b": 76
+    },
+    {
+        "code": "562",
+        "name": "Jade-MD",
+        "r": 97,
+        "g": 134,
+        "b": 97
+    },
+    {
+        "code": "563",
+        "name": "Jade-LT",
+        "r": 182,
+        "g": 212,
+        "b": 180
+    },
+    {
+        "code": "564",
+        "name": "Jade-VY LT",
+        "r": 214,
+        "g": 230,
+        "b": 204
+    },
+    {
+        "code": "580",
+        "name": "Moss Green-DK",
+        "r": 0,
+        "g": 103,
+        "b": 0
+    },
+    {
+        "code": "581",
+        "name": "Moss Green",
+        "r": 151,
+        "g": 152,
+        "b": 49
+    },
+    {
+        "code": "597",
+        "name": "Turquoise",
+        "r": 128,
+        "g": 151,
+        "b": 132
+    },
+    {
+        "code": "598",
+        "name": "Turquoise-LT",
+        "r": 208,
+        "g": 223,
+        "b": 205
+    },
+    {
+        "code": "600",
+        "name": "Cranberry-VY DK",
+        "r": 208,
+        "g": 57,
+        "b": 106
+    },
+    {
+        "code": "601",
+        "name": "Cranberry-DK",
+        "r": 222,
+        "g": 57,
+        "b": 105
+    },
+    {
+        "code": "602",
+        "name": "Cranberry-MD",
+        "r": 231,
+        "g": 84,
+        "b": 122
+    },
+    {
+        "code": "603",
+        "name": "Cranberry",
+        "r": 255,
+        "g": 115,
+        "b": 140
+    },
+    {
+        "code": "604",
+        "name": "Cranberry-LT",
+        "r": 255,
+        "g": 189,
+        "b": 202
+    },
+    {
+        "code": "605",
+        "name": "Cranberry-VY LT",
+        "r": 255,
+        "g": 207,
+        "b": 214
+    },
+    {
+        "code": "606",
+        "name": "Bright Orange-Red",
+        "r": 255,
+        "g": 0,
+        "b": 0
+    },
+    {
+        "code": "608",
+        "name": "Bright Orange",
+        "r": 255,
+        "g": 91,
+        "b": 0
+    },
+    {
+        "code": "610",
+        "name": "Drab Brown-VY DK",
+        "r": 151,
+        "g": 104,
+        "b": 84
+    },
+    {
+        "code": "611",
+        "name": "Drab Brown-DK",
+        "r": 158,
+        "g": 109,
+        "b": 91
+    },
+    {
+        "code": "612",
+        "name": "Drab Brown-MD",
+        "r": 203,
+        "g": 152,
+        "b": 103
+    },
+    {
+        "code": "613",
+        "name": "Drab Brown-LT",
+        "r": 219,
+        "g": 176,
+        "b": 122
+    },
+    {
+        "code": "632",
+        "name": "Desert Sand-ULT VY DK",
+        "r": 162,
+        "g": 77,
+        "b": 52
+    },
+    {
+        "code": "640",
+        "name": "Beige Grey-VY DK",
+        "r": 163,
+        "g": 163,
+        "b": 157
+    },
+    {
+        "code": "642",
+        "name": "Beige Grey-DK",
+        "r": 174,
+        "g": 176,
+        "b": 170
+    },
+    {
+        "code": "644",
+        "name": "Beige Grey-MD",
+        "r": 224,
+        "g": 224,
+        "b": 215
+    },
+    {
+        "code": "645",
+        "name": "Beaver Grey-VY DK",
+        "r": 113,
+        "g": 113,
+        "b": 113
+    },
+    {
+        "code": "646",
+        "name": "Beaver Grey-DK",
+        "r": 121,
+        "g": 121,
+        "b": 121
+    },
+    {
+        "code": "647",
+        "name": "Beaver Grey-MD",
+        "r": 190,
+        "g": 190,
+        "b": 185
+    },
+    {
+        "code": "648",
+        "name": "Beaver Grey-LT",
+        "r": 202,
+        "g": 202,
+        "b": 202
+    },
+    {
+        "code": "666",
+        "name": "Christmas Red-LT",
+        "r": 213,
+        "g": 39,
+        "b": 86
+    },
+    {
+        "code": "676",
+        "name": "Old Gold-LT",
+        "r": 255,
+        "g": 206,
+        "b": 158
+    },
+    {
+        "code": "677",
+        "name": "Old Gold-VY LT",
+        "r": 255,
+        "g": 231,
+        "b": 182
+    },
+    {
+        "code": "680",
+        "name": "Old Gold-DK",
+        "r": 209,
+        "g": 140,
+        "b": 103
+    },
+    {
+        "code": "699",
+        "name": "Chirstmas Green",
+        "r": 0,
+        "g": 91,
+        "b": 6
+    },
+    {
+        "code": "700",
+        "name": "Christmas Green-BRT",
+        "r": 0,
+        "g": 96,
+        "b": 47
+    },
+    {
+        "code": "701",
+        "name": "Christmas Green-LT",
+        "r": 79,
+        "g": 108,
+        "b": 69
+    },
+    {
+        "code": "702",
+        "name": "Kelly Green",
+        "r": 79,
+        "g": 121,
+        "b": 66
+    },
+    {
+        "code": "703",
+        "name": "Chartreuse",
+        "r": 121,
+        "g": 144,
+        "b": 76
+    },
+    {
+        "code": "704",
+        "name": "Chartreuse-BRT",
+        "r": 165,
+        "g": 164,
+        "b": 103
+    },
+    {
+        "code": "712",
+        "name": "Cream",
+        "r": 245,
+        "g": 240,
+        "b": 219
+    },
+    {
+        "code": "718",
+        "name": "Plum",
+        "r": 219,
+        "g": 55,
+        "b": 121
+    },
+    {
+        "code": "720",
+        "name": "Orange Spice-DK",
+        "r": 200,
+        "g": 36,
+        "b": 43
+    },
+    {
+        "code": "721",
+        "name": "Orange Spice-MD",
+        "r": 255,
+        "g": 115,
+        "b": 97
+    },
+    {
+        "code": "722",
+        "name": "Orange Spice-LT",
+        "r": 255,
+        "g": 146,
+        "b": 109
+    },
+    {
+        "code": "725",
+        "name": "Topaz",
+        "r": 255,
+        "g": 200,
+        "b": 124
+    },
+    {
+        "code": "726",
+        "name": "Topaz-LT",
+        "r": 255,
+        "g": 224,
+        "b": 128
+    },
+    {
+        "code": "727",
+        "name": "Topaz-VY LT",
+        "r": 255,
+        "g": 235,
+        "b": 168
+    },
+    {
+        "code": "729",
+        "name": "Old Gold-MD",
+        "r": 243,
+        "g": 176,
+        "b": 128
+    },
+    {
+        "code": "730",
+        "name": "Olive Green-VY DK",
+        "r": 132,
+        "g": 102,
+        "b": 0
+    },
+    {
+        "code": "731",
+        "name": "Olive Green-DK",
+        "r": 140,
+        "g": 103,
+        "b": 0
+    },
+    {
+        "code": "732",
+        "name": "Olive Green",
+        "r": 145,
+        "g": 104,
+        "b": 0
+    },
+    {
+        "code": "733",
+        "name": "Olive Green-MD",
+        "r": 206,
+        "g": 155,
+        "b": 97
+    },
+    {
+        "code": "734",
+        "name": "Olive Green-LT",
+        "r": 221,
+        "g": 166,
+        "b": 107
+    },
+    {
+        "code": "738",
+        "name": "Tan-VY LT",
+        "r": 244,
+        "g": 195,
+        "b": 139
+    },
+    {
+        "code": "739",
+        "name": "Tan-ULT VY LT",
+        "r": 244,
+        "g": 233,
+        "b": 202
+    },
+    {
+        "code": "740",
+        "name": "Tangerine",
+        "r": 255,
+        "g": 131,
+        "b": 19
+    },
+    {
+        "code": "741",
+        "name": "Tangerine-MD",
+        "r": 255,
+        "g": 142,
+        "b": 4
+    },
+    {
+        "code": "742",
+        "name": "Tangerine-LT",
+        "r": 255,
+        "g": 183,
+        "b": 85
+    },
+    {
+        "code": "743",
+        "name": "Yellow-MD",
+        "r": 255,
+        "g": 230,
+        "b": 146
+    },
+    {
+        "code": "744",
+        "name": "Yellow-PALE",
+        "r": 255,
+        "g": 239,
+        "b": 170
+    },
+    {
+        "code": "745",
+        "name": "Yellow-LT PALE",
+        "r": 255,
+        "g": 240,
+        "b": 197
+    },
+    {
+        "code": "746",
+        "name": "Off White",
+        "r": 246,
+        "g": 234,
+        "b": 219
+    },
+    {
+        "code": "747",
+        "name": "Sky Blue-VY LT",
+        "r": 240,
+        "g": 247,
+        "b": 239
+    },
+    {
+        "code": "754",
+        "name": "Peach Flesh-LT",
+        "r": 251,
+        "g": 227,
+        "b": 209
+    },
+    {
+        "code": "758",
+        "name": "Terra Cotta-VY LT",
+        "r": 255,
+        "g": 177,
+        "b": 147
+    },
+    {
+        "code": "760",
+        "name": "Salmon",
+        "r": 249,
+        "g": 160,
+        "b": 146
+    },
+    {
+        "code": "761",
+        "name": "Salmon-LT",
+        "r": 255,
+        "g": 201,
+        "b": 188
+    },
+    {
+        "code": "762",
+        "name": "Pearl Grey-VY LT",
+        "r": 232,
+        "g": 232,
+        "b": 229
+    },
+    {
+        "code": "772",
+        "name": "Pine Green--LT",
+        "r": 231,
+        "g": 249,
+        "b": 203
+    },
+    {
+        "code": "775",
+        "name": "Baby Blue-VY LT",
+        "r": 247,
+        "g": 246,
+        "b": 248
+    },
+    {
+        "code": "776",
+        "name": "Pink-MD",
+        "r": 255,
+        "g": 177,
+        "b": 174
+    },
+    {
+        "code": "778",
+        "name": "Antique Mauve-VY LT",
+        "r": 255,
+        "g": 199,
+        "b": 184
+    },
+    {
+        "code": "780",
+        "name": "Topaz-ULT VY DK",
+        "r": 181,
+        "g": 98,
+        "b": 46
+    },
+    {
+        "code": "781",
+        "name": "Topaz-VY DK",
+        "r": 181,
+        "g": 107,
+        "b": 56
+    },
+    {
+        "code": "782",
+        "name": "Topaz-DK",
+        "r": 204,
+        "g": 119,
+        "b": 66
+    },
+    {
+        "code": "783",
+        "name": "Topaz-MD",
+        "r": 225,
+        "g": 146,
+        "b": 85
+    },
+    {
+        "code": "791",
+        "name": "Cornflower Blue-VYD",
+        "r": 71,
+        "g": 55,
+        "b": 93
+    },
+    {
+        "code": "792",
+        "name": "Cornflower Blue-DK",
+        "r": 97,
+        "g": 97,
+        "b": 128
+    },
+    {
+        "code": "793",
+        "name": "Cornflower Blue-MD",
+        "r": 147,
+        "g": 139,
+        "b": 164
+    },
+    {
+        "code": "794",
+        "name": "Cornflower Blue-LT",
+        "r": 187,
+        "g": 208,
+        "b": 218
+    },
+    {
+        "code": "796",
+        "name": "Royal Blue-DK",
+        "r": 30,
+        "g": 58,
+        "b": 95
+    },
+    {
+        "code": "797",
+        "name": "Royal Blue",
+        "r": 30,
+        "g": 66,
+        "b": 99
+    },
+    {
+        "code": "798",
+        "name": "Delft-DK",
+        "r": 103,
+        "g": 115,
+        "b": 141
+    },
+    {
+        "code": "799",
+        "name": "Delft-MD",
+        "r": 132,
+        "g": 156,
+        "b": 182
+    },
+    {
+        "code": "800",
+        "name": "Delft-PALE",
+        "r": 233,
+        "g": 238,
+        "b": 233
+    },
+    {
+        "code": "801",
+        "name": "Coffee Brown-DK",
+        "r": 123,
+        "g": 71,
+        "b": 20
+    },
+    {
+        "code": "806",
+        "name": "Peacock Blue-DK",
+        "r": 30,
+        "g": 130,
+        "b": 133
+    },
+    {
+        "code": "807",
+        "name": "Peacock Blue",
+        "r": 128,
+        "g": 167,
+        "b": 160
+    },
+    {
+        "code": "809",
+        "name": "Delft",
+        "r": 190,
+        "g": 193,
+        "b": 205
+    },
+    {
+        "code": "813",
+        "name": "Blue-LT",
+        "r": 175,
+        "g": 195,
+        "b": 205
+    },
+    {
+        "code": "814",
+        "name": "Garnet-DK",
+        "r": 162,
+        "g": 0,
+        "b": 88
+    },
+    {
+        "code": "815",
+        "name": "Garnet-MD",
+        "r": 166,
+        "g": 0,
+        "b": 91
+    },
+    {
+        "code": "816",
+        "name": "Garnet",
+        "r": 179,
+        "g": 0,
+        "b": 91
+    },
+    {
+        "code": "817",
+        "name": "Coral Red-VY DK",
+        "r": 219,
+        "g": 24,
+        "b": 85
+    },
+    {
+        "code": "818",
+        "name": "Baby Pink",
+        "r": 255,
+        "g": 234,
+        "b": 235
+    },
+    {
+        "code": "819",
+        "name": "Baby Pink-LT",
+        "r": 248,
+        "g": 247,
+        "b": 221
+    },
+    {
+        "code": "820",
+        "name": "Royal Blue-VY DK",
+        "r": 30,
+        "g": 54,
+        "b": 85
+    },
+    {
+        "code": "822",
+        "name": "Beige Grey-LT",
+        "r": 242,
+        "g": 234,
+        "b": 219
+    },
+    {
+        "code": "823",
+        "name": "Navy Blue-DK",
+        "r": 0,
+        "g": 0,
+        "b": 73
+    },
+    {
+        "code": "824",
+        "name": "Blue-VY DK",
+        "r": 71,
+        "g": 97,
+        "b": 116
+    },
+    {
+        "code": "825",
+        "name": "Blue-DK",
+        "r": 85,
+        "g": 108,
+        "b": 128
+    },
+    {
+        "code": "826",
+        "name": "Blue-MD",
+        "r": 115,
+        "g": 138,
+        "b": 153
+    },
+    {
+        "code": "827",
+        "name": "Blue-VY LT",
+        "r": 213,
+        "g": 231,
+        "b": 232
+    },
+    {
+        "code": "828",
+        "name": "Blue-ULT VY LT",
+        "r": 237,
+        "g": 247,
+        "b": 238
+    },
+    {
+        "code": "829",
+        "name": "Golden Olive-VY DK",
+        "r": 130,
+        "g": 90,
+        "b": 8
+    },
+    {
+        "code": "830",
+        "name": "Golden Olive-DK",
+        "r": 136,
+        "g": 95,
+        "b": 18
+    },
+    {
+        "code": "831",
+        "name": "Golden Olive-MD",
+        "r": 144,
+        "g": 103,
+        "b": 18
+    },
+    {
+        "code": "832",
+        "name": "Golden Olive",
+        "r": 178,
+        "g": 119,
+        "b": 55
+    },
+    {
+        "code": "833",
+        "name": "Golden Olive-LT",
+        "r": 219,
+        "g": 182,
+        "b": 128
+    },
+    {
+        "code": "834",
+        "name": "Golden Olive-VY LT",
+        "r": 242,
+        "g": 209,
+        "b": 142
+    },
+    {
+        "code": "838",
+        "name": "Beige Brown-VY DK",
+        "r": 94,
+        "g": 56,
+        "b": 27
+    },
+    {
+        "code": "839",
+        "name": "Beige Brown-DK",
+        "r": 109,
+        "g": 66,
+        "b": 39
+    },
+    {
+        "code": "840",
+        "name": "Beige Brown-MD",
+        "r": 128,
+        "g": 85,
+        "b": 30
+    },
+    {
+        "code": "841",
+        "name": "Beige Brown-LT",
+        "r": 188,
+        "g": 134,
+        "b": 107
+    },
+    {
+        "code": "842",
+        "name": "Beige Brown-VY LT",
+        "r": 219,
+        "g": 194,
+        "b": 164
+    },
+    {
+        "code": "844",
+        "name": "Beaver Brown -ULT D",
+        "r": 107,
+        "g": 103,
+        "b": 102
+    },
+    {
+        "code": "869",
+        "name": "Hazel Nut Brn-VY DK",
+        "r": 153,
+        "g": 92,
+        "b": 48
+    },
+    {
+        "code": "890",
+        "name": "Pistachio Grn-ULT D",
+        "r": 79,
+        "g": 86,
+        "b": 76
+    },
+    {
+        "code": "891",
+        "name": "Carnation-DK",
+        "r": 241,
+        "g": 49,
+        "b": 84
+    },
+    {
+        "code": "892",
+        "name": "Carnation-MD",
+        "r": 249,
+        "g": 90,
+        "b": 97
+    },
+    {
+        "code": "893",
+        "name": "Carnation-LT",
+        "r": 243,
+        "g": 149,
+        "b": 157
+    },
+    {
+        "code": "894",
+        "name": "Carnation-VY LT",
+        "r": 255,
+        "g": 194,
+        "b": 191
+    },
+    {
+        "code": "895",
+        "name": "Hunter Green-VY DK",
+        "r": 89,
+        "g": 92,
+        "b": 78
+    },
+    {
+        "code": "898",
+        "name": "Coffee Brown-VY DK",
+        "r": 118,
+        "g": 55,
+        "b": 19
+    },
+    {
+        "code": "899",
+        "name": "Rose-MD",
+        "r": 233,
+        "g": 109,
+        "b": 115
+    },
+    {
+        "code": "900",
+        "name": "Burnt Orange-DK",
+        "r": 206,
+        "g": 43,
+        "b": 0
+    },
+    {
+        "code": "902",
+        "name": "Granet-VY DK",
+        "r": 138,
+        "g": 24,
+        "b": 77
+    },
+    {
+        "code": "904",
+        "name": "Parrot Green-VY DK",
+        "r": 78,
+        "g": 95,
+        "b": 57
+    },
+    {
+        "code": "905",
+        "name": "Parrot Green-DK",
+        "r": 98,
+        "g": 119,
+        "b": 57
+    },
+    {
+        "code": "906",
+        "name": "Parrot Green-MD",
+        "r": 143,
+        "g": 163,
+        "b": 89
+    },
+    {
+        "code": "907",
+        "name": "Parrot Green-LT",
+        "r": 185,
+        "g": 200,
+        "b": 102
+    },
+    {
+        "code": "909",
+        "name": "Emerald Green-VY DK",
+        "r": 49,
+        "g": 105,
+        "b": 85
+    },
+    {
+        "code": "910",
+        "name": "Emerald Green-DK",
+        "r": 48,
+        "g": 116,
+        "b": 91
+    },
+    {
+        "code": "911",
+        "name": "Emerald Green-MD",
+        "r": 49,
+        "g": 128,
+        "b": 97
+    },
+    {
+        "code": "912",
+        "name": "Emerald Green-LT",
+        "r": 115,
+        "g": 158,
+        "b": 115
+    },
+    {
+        "code": "913",
+        "name": "Nile Green-MD",
+        "r": 153,
+        "g": 188,
+        "b": 149
+    },
+    {
+        "code": "915",
+        "name": "Plum-DK",
+        "r": 170,
+        "g": 24,
+        "b": 91
+    },
+    {
+        "code": "917",
+        "name": "Plum-MD",
+        "r": 171,
+        "g": 22,
+        "b": 95
+    },
+    {
+        "code": "918",
+        "name": "Red Copper-DK",
+        "r": 168,
+        "g": 68,
+        "b": 76
+    },
+    {
+        "code": "919",
+        "name": "Red Copper",
+        "r": 180,
+        "g": 75,
+        "b": 82
+    },
+    {
+        "code": "920",
+        "name": "Copper-MD",
+        "r": 197,
+        "g": 94,
+        "b": 88
+    },
+    {
+        "code": "921",
+        "name": "Copper",
+        "r": 206,
+        "g": 103,
+        "b": 91
+    },
+    {
+        "code": "922",
+        "name": "Copper-LT",
+        "r": 237,
+        "g": 134,
+        "b": 115
+    },
+    {
+        "code": "924",
+        "name": "Grey Green--VY DK",
+        "r": 86,
+        "g": 99,
+        "b": 100
+    },
+    {
+        "code": "926",
+        "name": "Grey Green-LT",
+        "r": 96,
+        "g": 116,
+        "b": 115
+    },
+    {
+        "code": "927",
+        "name": "Grey Green-LT",
+        "r": 200,
+        "g": 198,
+        "b": 194
+    },
+    {
+        "code": "928",
+        "name": "Grey Green--VY LT",
+        "r": 225,
+        "g": 224,
+        "b": 216
+    },
+    {
+        "code": "930",
+        "name": "Antique Blue-DK",
+        "r": 102,
+        "g": 122,
+        "b": 140
+    },
+    {
+        "code": "931",
+        "name": "Antique Blue-MD",
+        "r": 124,
+        "g": 135,
+        "b": 145
+    },
+    {
+        "code": "932",
+        "name": "Antique Blue-LT",
+        "r": 182,
+        "g": 186,
+        "b": 194
+    },
+    {
+        "code": "934",
+        "name": "Black Avocado Green",
+        "r": 62,
+        "g": 59,
+        "b": 40
+    },
+    {
+        "code": "935",
+        "name": "Avocado Green-DK",
+        "r": 67,
+        "g": 63,
+        "b": 47
+    },
+    {
+        "code": "936",
+        "name": "Avocado Green--VY D",
+        "r": 69,
+        "g": 69,
+        "b": 49
+    },
+    {
+        "code": "937",
+        "name": "Avocado Green-MD",
+        "r": 73,
+        "g": 86,
+        "b": 55
+    },
+    {
+        "code": "938",
+        "name": "Coffee Brown-ULT DK",
+        "r": 99,
+        "g": 39,
+        "b": 16
+    },
+    {
+        "code": "939",
+        "name": "Navy Blue-Vy DK",
+        "r": 0,
+        "g": 0,
+        "b": 49
+    },
+    {
+        "code": "943",
+        "name": "Aquamarine-MD",
+        "r": 0,
+        "g": 162,
+        "b": 117
+    },
+    {
+        "code": "945",
+        "name": "Flesh-MD",
+        "r": 255,
+        "g": 206,
+        "b": 164
+    },
+    {
+        "code": "946",
+        "name": "Burnt Orange-MD",
+        "r": 244,
+        "g": 73,
+        "b": 0
+    },
+    {
+        "code": "947",
+        "name": "Burnt Orange",
+        "r": 255,
+        "g": 91,
+        "b": 0
+    },
+    {
+        "code": "948",
+        "name": "Peach Flesh-VY LT",
+        "r": 255,
+        "g": 243,
+        "b": 231
+    },
+    {
+        "code": "950",
+        "name": "Sportsman Flesh",
+        "r": 239,
+        "g": 162,
+        "b": 127
+    },
+    {
+        "code": "951",
+        "name": "Flesh",
+        "r": 255,
+        "g": 229,
+        "b": 188
+    },
+    {
+        "code": "954",
+        "name": "Nile Green",
+        "r": 170,
+        "g": 213,
+        "b": 164
+    },
+    {
+        "code": "955",
+        "name": "Nile Green-LT",
+        "r": 214,
+        "g": 230,
+        "b": 204
+    },
+    {
+        "code": "956",
+        "name": "Geranium",
+        "r": 255,
+        "g": 109,
+        "b": 115
+    },
+    {
+        "code": "957",
+        "name": "Gernanium-PALE",
+        "r": 255,
+        "g": 204,
+        "b": 208
+    },
+    {
+        "code": "958",
+        "name": "Sea Green-DK",
+        "r": 0,
+        "g": 160,
+        "b": 130
+    },
+    {
+        "code": "959",
+        "name": "Sea Green-MD",
+        "r": 171,
+        "g": 206,
+        "b": 177
+    },
+    {
+        "code": "961",
+        "name": "Dusty Rose-DK",
+        "r": 243,
+        "g": 108,
+        "b": 123
+    },
+    {
+        "code": "962",
+        "name": "Dusty Rose-MD",
+        "r": 253,
+        "g": 134,
+        "b": 141
+    },
+    {
+        "code": "963",
+        "name": "Dusty Rose-ULT VY L",
+        "r": 255,
+        "g": 233,
+        "b": 233
+    },
+    {
+        "code": "964",
+        "name": "Sea Green-LT",
+        "r": 208,
+        "g": 224,
+        "b": 210
+    },
+    {
+        "code": "966",
+        "name": "Baby Green-MD",
+        "r": 206,
+        "g": 213,
+        "b": 176
+    },
+    {
+        "code": "970",
+        "name": "Pumpkin-LT",
+        "r": 255,
+        "g": 117,
+        "b": 24
+    },
+    {
+        "code": "971",
+        "name": "Pumpkin",
+        "r": 255,
+        "g": 106,
+        "b": 0
+    },
+    {
+        "code": "972",
+        "name": "Canary-DP",
+        "r": 255,
+        "g": 146,
+        "b": 0
+    },
+    {
+        "code": "973",
+        "name": "Canary-BRT",
+        "r": 255,
+        "g": 194,
+        "b": 67
+    },
+    {
+        "code": "975",
+        "name": "Golden Brown-DK",
+        "r": 158,
+        "g": 67,
+        "b": 18
+    },
+    {
+        "code": "976",
+        "name": "Golden Brown-MD",
+        "r": 246,
+        "g": 141,
+        "b": 57
+    },
+    {
+        "code": "977",
+        "name": "Golden Brown-LT",
+        "r": 255,
+        "g": 164,
+        "b": 73
+    },
+    {
+        "code": "986",
+        "name": "Forest Green-VY DK",
+        "r": 58,
+        "g": 82,
+        "b": 65
+    },
+    {
+        "code": "987",
+        "name": "Forest Green-DK",
+        "r": 83,
+        "g": 97,
+        "b": 73
+    },
+    {
+        "code": "988",
+        "name": "Forest Green-MD",
+        "r": 134,
+        "g": 145,
+        "b": 110
+    },
+    {
+        "code": "989",
+        "name": "Forest Green",
+        "r": 134,
+        "g": 153,
+        "b": 110
+    },
+    {
+        "code": "991",
+        "name": "Aquamarine-DK",
+        "r": 47,
+        "g": 91,
+        "b": 73
+    },
+    {
+        "code": "992",
+        "name": "Aquamarine",
+        "r": 146,
+        "g": 183,
+        "b": 165
+    },
+    {
+        "code": "993",
+        "name": "Aquamarine-LT",
+        "r": 192,
+        "g": 224,
+        "b": 200
+    },
+    {
+        "code": "995",
+        "name": "Electric Blue-DK",
+        "r": 0,
+        "g": 123,
+        "b": 134
+    },
+    {
+        "code": "996",
+        "name": "Electric Blue-MD",
+        "r": 170,
+        "g": 222,
+        "b": 225
+    },
+    {
+        "code": "3011",
+        "name": "Khaki Green-DK",
+        "r": 123,
+        "g": 91,
+        "b": 64
+    },
+    {
+        "code": "3012",
+        "name": "Khaki Green-MD",
+        "r": 170,
+        "g": 134,
+        "b": 103
+    },
+    {
+        "code": "3013",
+        "name": "Khaki Green-LT",
+        "r": 208,
+        "g": 195,
+        "b": 164
+    },
+    {
+        "code": "3021",
+        "name": "Brown Grey-VY DK",
+        "r": 115,
+        "g": 91,
+        "b": 93
+    },
+    {
+        "code": "3022",
+        "name": "Brown Grey-MD",
+        "r": 172,
+        "g": 172,
+        "b": 170
+    },
+    {
+        "code": "3023",
+        "name": "Brown Grey-LT",
+        "r": 198,
+        "g": 190,
+        "b": 173
+    },
+    {
+        "code": "3024",
+        "name": "Brown Grey-VY LT",
+        "r": 210,
+        "g": 208,
+        "b": 205
+    },
+    {
+        "code": "3031",
+        "name": "Mocha Brown-VY DK",
+        "r": 84,
+        "g": 56,
+        "b": 23
+    },
+    {
+        "code": "3032",
+        "name": "Mocha Brown-MD",
+        "r": 188,
+        "g": 156,
+        "b": 120
+    },
+    {
+        "code": "3033",
+        "name": "Mocha Brown-VY LT",
+        "r": 239,
+        "g": 219,
+        "b": 190
+    },
+    {
+        "code": "3041",
+        "name": "Antique Violet-MD",
+        "r": 190,
+        "g": 155,
+        "b": 167
+    },
+    {
+        "code": "3042",
+        "name": "Antique Violet-LT",
+        "r": 225,
+        "g": 205,
+        "b": 200
+    },
+    {
+        "code": "3045",
+        "name": "Yellow Beige-DK",
+        "r": 216,
+        "g": 151,
+        "b": 105
+    },
+    {
+        "code": "3046",
+        "name": "Yellow Beige-MD",
+        "r": 229,
+        "g": 193,
+        "b": 139
+    },
+    {
+        "code": "3047",
+        "name": "Yellow Beige-LT",
+        "r": 255,
+        "g": 236,
+        "b": 211
+    },
+    {
+        "code": "3051",
+        "name": "Green Grey-DK",
+        "r": 85,
+        "g": 73,
+        "b": 0
+    },
+    {
+        "code": "3052",
+        "name": "Green Grey--MD",
+        "r": 137,
+        "g": 141,
+        "b": 114
+    },
+    {
+        "code": "3053",
+        "name": "Green Grey",
+        "r": 187,
+        "g": 179,
+        "b": 148
+    },
+    {
+        "code": "3064",
+        "name": "Sportsman Flsh-VY D",
+        "r": 194,
+        "g": 101,
+        "b": 76
+    },
+    {
+        "code": "3072",
+        "name": "Beaver Grey-VY LT",
+        "r": 233,
+        "g": 233,
+        "b": 223
+    },
+    {
+        "code": "3078",
+        "name": "Golden Yellow-VY LT",
+        "r": 255,
+        "g": 255,
+        "b": 220
+    },
+    {
+        "code": "3325",
+        "name": "Baby Blue-LT",
+        "r": 202,
+        "g": 226,
+        "b": 229
+    },
+    {
+        "code": "3326",
+        "name": "Rose-LT",
+        "r": 255,
+        "g": 157,
+        "b": 150
+    },
+    {
+        "code": "3328",
+        "name": "Salmon-DK",
+        "r": 188,
+        "g": 64,
+        "b": 85
+    },
+    {
+        "code": "3340",
+        "name": "Apricot-MD",
+        "r": 255,
+        "g": 123,
+        "b": 103
+    },
+    {
+        "code": "3341",
+        "name": "Apricot",
+        "r": 255,
+        "g": 172,
+        "b": 162
+    },
+    {
+        "code": "3345",
+        "name": "Hunter Green-DK",
+        "r": 97,
+        "g": 100,
+        "b": 82
+    },
+    {
+        "code": "3346",
+        "name": "Hunter Green",
+        "r": 120,
+        "g": 134,
+        "b": 107
+    },
+    {
+        "code": "3347",
+        "name": "Yellow Green-MD",
+        "r": 128,
+        "g": 152,
+        "b": 115
+    },
+    {
+        "code": "3348",
+        "name": "Yellow Green-LT",
+        "r": 225,
+        "g": 249,
+        "b": 190
+    },
+    {
+        "code": "3350",
+        "name": "Dusty Rose-ULT DK",
+        "r": 201,
+        "g": 79,
+        "b": 91
+    },
+    {
+        "code": "3354",
+        "name": "Dusty Rose-LT",
+        "r": 255,
+        "g": 214,
+        "b": 209
+    },
+    {
+        "code": "3362",
+        "name": "Pine Green-DK",
+        "r": 96,
+        "g": 95,
+        "b": 84
+    },
+    {
+        "code": "3363",
+        "name": "Pine Green-MD",
+        "r": 116,
+        "g": 127,
+        "b": 96
+    },
+    {
+        "code": "3364",
+        "name": "Pine Green",
+        "r": 161,
+        "g": 167,
+        "b": 135
+    },
+    {
+        "code": "3371",
+        "name": "Black Brown",
+        "r": 83,
+        "g": 37,
+        "b": 16
+    },
+    {
+        "code": "3607",
+        "name": "Plum-LT",
+        "r": 231,
+        "g": 79,
+        "b": 134
+    },
+    {
+        "code": "3608",
+        "name": "Plum-VY LT",
+        "r": 247,
+        "g": 152,
+        "b": 182
+    },
+    {
+        "code": "3609",
+        "name": "Plum-ULT LT",
+        "r": 255,
+        "g": 214,
+        "b": 229
+    },
+    {
+        "code": "3685",
+        "name": "Mauve-DK",
+        "r": 161,
+        "g": 53,
+        "b": 79
+    },
+    {
+        "code": "3687",
+        "name": "Mauve",
+        "r": 203,
+        "g": 78,
+        "b": 97
+    },
+    {
+        "code": "3688",
+        "name": "Mauve-MD",
+        "r": 250,
+        "g": 151,
+        "b": 144
+    },
+    {
+        "code": "3689",
+        "name": "Mauve-LT",
+        "r": 255,
+        "g": 213,
+        "b": 216
+    },
+    {
+        "code": "3705",
+        "name": "Melon-DK",
+        "r": 255,
+        "g": 85,
+        "b": 91
+    },
+    {
+        "code": "3706",
+        "name": "Melon-MD",
+        "r": 255,
+        "g": 128,
+        "b": 109
+    },
+    {
+        "code": "3708",
+        "name": "Melon-LT",
+        "r": 254,
+        "g": 212,
+        "b": 219
+    },
+    {
+        "code": "3712",
+        "name": "Salmon-MD",
+        "r": 230,
+        "g": 101,
+        "b": 107
+    },
+    {
+        "code": "3713",
+        "name": "Salmon-VY LT",
+        "r": 253,
+        "g": 229,
+        "b": 217
+    },
+    {
+        "code": "3716",
+        "name": "Dusty Rose-VY LT",
+        "r": 255,
+        "g": 211,
+        "b": 212
+    },
+    {
+        "code": "3721",
+        "name": "Shell Pink-DK",
+        "r": 184,
+        "g": 75,
+        "b": 77
+    },
+    {
+        "code": "3722",
+        "name": "Shell Pink-MD",
+        "r": 184,
+        "g": 89,
+        "b": 88
+    },
+    {
+        "code": "3726",
+        "name": "Antique Mauve-DK",
+        "r": 195,
+        "g": 118,
+        "b": 123
+    },
+    {
+        "code": "3727",
+        "name": "Antique Mauve-LT",
+        "r": 255,
+        "g": 199,
+        "b": 196
+    },
+    {
+        "code": "3731",
+        "name": "Dusty Rose-VY DK",
+        "r": 209,
+        "g": 93,
+        "b": 103
+    },
+    {
+        "code": "3733",
+        "name": "Dusty Rose",
+        "r": 255,
+        "g": 154,
+        "b": 148
+    },
+    {
+        "code": "3740",
+        "name": "Antique Violet-DK",
+        "r": 156,
+        "g": 125,
+        "b": 133
+    },
+    {
+        "code": "3743",
+        "name": "Antique Violet-VY L",
+        "r": 235,
+        "g": 235,
+        "b": 231
+    },
+    {
+        "code": "3746",
+        "name": "Blue Violet-DK",
+        "r": 149,
+        "g": 102,
+        "b": 162
+    },
+    {
+        "code": "3747",
+        "name": "Blue Violet-VY LT",
+        "r": 230,
+        "g": 236,
+        "b": 232
+    },
+    {
+        "code": "3750",
+        "name": "Antique Blue-VY DK",
+        "r": 12,
+        "g": 91,
+        "b": 108
+    },
+    {
+        "code": "3752",
+        "name": "Antique Blue-VY LT",
+        "r": 194,
+        "g": 209,
+        "b": 206
+    },
+    {
+        "code": "3753",
+        "name": "Ant. Blue-ULT VY LT",
+        "r": 237,
+        "g": 247,
+        "b": 247
+    },
+    {
+        "code": "3755",
+        "name": "Baby Blue",
+        "r": 158,
+        "g": 176,
+        "b": 206
+    },
+    {
+        "code": "3756",
+        "name": "Baby Blue-ULT VY LT",
+        "r": 248,
+        "g": 248,
+        "b": 252
+    },
+    {
+        "code": "3760",
+        "name": "Wedgewood",
+        "r": 102,
+        "g": 142,
+        "b": 152
+    },
+    {
+        "code": "3761",
+        "name": "Sky Blue-LT",
+        "r": 227,
+        "g": 234,
+        "b": 230
+    },
+    {
+        "code": "3765",
+        "name": "Peacock Blue-VY DK",
+        "r": 24,
+        "g": 128,
+        "b": 134
+    },
+    {
+        "code": "3766",
+        "name": "Peacock Blue-LT",
+        "r": 24,
+        "g": 101,
+        "b": 111
+    },
+    {
+        "code": "3768",
+        "name": "Grey Green-DK",
+        "r": 92,
+        "g": 110,
+        "b": 108
+    },
+    {
+        "code": "3770",
+        "name": "Flesh-VY LT",
+        "r": 255,
+        "g": 250,
+        "b": 224
+    },
+    {
+        "code": "3772",
+        "name": "Desert Sand-VY DK",
+        "r": 173,
+        "g": 83,
+        "b": 62
+    },
+    {
+        "code": "3773",
+        "name": "Sportsman Flsh-MD",
+        "r": 231,
+        "g": 134,
+        "b": 103
+    },
+    {
+        "code": "3774",
+        "name": "Sportsman Flsh-VY L",
+        "r": 255,
+        "g": 220,
+        "b": 193
+    },
+    {
+        "code": "3776",
+        "name": "Mahogony-LT",
+        "r": 221,
+        "g": 109,
+        "b": 91
+    },
+    {
+        "code": "3777",
+        "name": "Terra Cotta-VY DK",
+        "r": 191,
+        "g": 64,
+        "b": 36
+    },
+    {
+        "code": "3778",
+        "name": "Terra Cotta-LT",
+        "r": 237,
+        "g": 122,
+        "b": 100
+    },
+    {
+        "code": "3779",
+        "name": "Ter. Cotta-ULT VY L",
+        "r": 255,
+        "g": 177,
+        "b": 152
+    },
+    {
+        "code": "3781",
+        "name": "Mocha Brown-DK",
+        "r": 113,
+        "g": 71,
+        "b": 42
+    },
+    {
+        "code": "3782",
+        "name": "Mocho Brown-LT",
+        "r": 206,
+        "g": 175,
+        "b": 144
+    },
+    {
+        "code": "3787",
+        "name": "Brown Grey-DK",
+        "r": 139,
+        "g": 109,
+        "b": 115
+    },
+    {
+        "code": "3790",
+        "name": "Beige Grey-ULT DK",
+        "r": 140,
+        "g": 117,
+        "b": 109
+    },
+    {
+        "code": "3799",
+        "name": "Pewter Grey-VY DK",
+        "r": 81,
+        "g": 76,
+        "b": 83
+    },
+    {
+        "code": "3801",
+        "name": "V DK Melon",
+        "r": 231,
+        "g": 73,
+        "b": 103
+    },
+    {
+        "code": "3802",
+        "name": "V DK Antique Mauve",
+        "r": 113,
+        "g": 65,
+        "b": 73
+    },
+    {
+        "code": "3803",
+        "name": "DK Mauve",
+        "r": 171,
+        "g": 51,
+        "b": 87
+    },
+    {
+        "code": "3804",
+        "name": "DK Cyclamen Pink",
+        "r": 224,
+        "g": 40,
+        "b": 118
+    },
+    {
+        "code": "3805",
+        "name": "Cyclamen Pink",
+        "r": 243,
+        "g": 71,
+        "b": 139
+    },
+    {
+        "code": "3806",
+        "name": "LT Cyclamen Pink",
+        "r": 255,
+        "g": 140,
+        "b": 174
+    },
+    {
+        "code": "3807",
+        "name": "Cornflower Blue",
+        "r": 96,
+        "g": 103,
+        "b": 140
+    },
+    {
+        "code": "3808",
+        "name": "Ultra V DK Turquoise",
+        "r": 54,
+        "g": 105,
+        "b": 112
+    },
+    {
+        "code": "3809",
+        "name": "V DK Turquoise",
+        "r": 63,
+        "g": 124,
+        "b": 133
+    },
+    {
+        "code": "3810",
+        "name": "DK Turquoise",
+        "r": 72,
+        "g": 142,
+        "b": 154
+    },
+    {
+        "code": "3811",
+        "name": "V LT Turquoise",
+        "r": 188,
+        "g": 227,
+        "b": 230
+    },
+    {
+        "code": "3812",
+        "name": "V DK Seagreen",
+        "r": 47,
+        "g": 140,
+        "b": 132
+    },
+    {
+        "code": "3813",
+        "name": "LT Blue Green",
+        "r": 178,
+        "g": 212,
+        "b": 189
+    },
+    {
+        "code": "3814",
+        "name": "Aquamarine",
+        "r": 80,
+        "g": 139,
+        "b": 125
+    },
+    {
+        "code": "3815",
+        "name": "DK Celadon Green",
+        "r": 71,
+        "g": 119,
+        "b": 89
+    },
+    {
+        "code": "3816",
+        "name": "Celadon Green",
+        "r": 101,
+        "g": 165,
+        "b": 125
+    },
+    {
+        "code": "3817",
+        "name": "LT Celadon Green",
+        "r": 153,
+        "g": 195,
+        "b": 170
+    },
+    {
+        "code": "3818",
+        "name": "Ultra V DK Emerald Greene",
+        "r": 17,
+        "g": 90,
+        "b": 59
+    },
+    {
+        "code": "3819",
+        "name": "LT Moss Green",
+        "r": 224,
+        "g": 232,
+        "b": 104
+    },
+    {
+        "code": "3820",
+        "name": "DK Straw",
+        "r": 223,
+        "g": 182,
+        "b": 95
+    },
+    {
+        "code": "3821",
+        "name": "Straw",
+        "r": 243,
+        "g": 206,
+        "b": 117
+    },
+    {
+        "code": "3822",
+        "name": "LT Straw",
+        "r": 246,
+        "g": 220,
+        "b": 152
+    },
+    {
+        "code": "3823",
+        "name": "Ultra Pale Yellow",
+        "r": 255,
+        "g": 253,
+        "b": 227
+    },
+    {
+        "code": "3824",
+        "name": "LT Apricot",
+        "r": 254,
+        "g": 205,
+        "b": 194
+    },
+    {
+        "code": "3825",
+        "name": "Pale Pumpkin",
+        "r": 253,
+        "g": 189,
+        "b": 150
+    },
+    {
+        "code": "3826",
+        "name": "Golden Brown",
+        "r": 173,
+        "g": 114,
+        "b": 57
+    },
+    {
+        "code": "3827",
+        "name": "Pale Golden Brown",
+        "r": 247,
+        "g": 187,
+        "b": 119
+    },
+    {
+        "code": "3828",
+        "name": "Hazelnut Brown",
+        "r": 183,
+        "g": 139,
+        "b": 97
+    },
+    {
+        "code": "3829",
+        "name": "V DK Old Gold",
+        "r": 169,
+        "g": 130,
+        "b": 4
+    },
+    {
+        "code": "3830",
+        "name": "Terra Cotta",
+        "r": 188,
+        "g": 85,
+        "b": 68
+    },
+    {
+        "code": "3831",
+        "name": "DK Raspberry",
+        "r": 179,
+        "g": 47,
+        "b": 72
+    },
+    {
+        "code": "3832",
+        "name": "MD Raspberry",
+        "r": 219,
+        "g": 85,
+        "b": 110
+    },
+    {
+        "code": "3833",
+        "name": "LT Raspberry",
+        "r": 234,
+        "g": 134,
+        "b": 153
+    },
+    {
+        "code": "3834",
+        "name": "DK Grape",
+        "r": 114,
+        "g": 55,
+        "b": 93
+    },
+    {
+        "code": "3835",
+        "name": "MD Grape",
+        "r": 148,
+        "g": 96,
+        "b": 131
+    },
+    {
+        "code": "3836",
+        "name": "LT Grape",
+        "r": 186,
+        "g": 145,
+        "b": 170
+    },
+    {
+        "code": "3837",
+        "name": "Ultra DK Lavender",
+        "r": 108,
+        "g": 58,
+        "b": 110
+    },
+    {
+        "code": "3838",
+        "name": "DK Lavender Blue",
+        "r": 92,
+        "g": 114,
+        "b": 148
+    },
+    {
+        "code": "3839",
+        "name": "MD Lavender Blue",
+        "r": 123,
+        "g": 142,
+        "b": 171
+    },
+    {
+        "code": "3840",
+        "name": "LT Lavender Blue",
+        "r": 176,
+        "g": 192,
+        "b": 218
+    },
+    {
+        "code": "3841",
+        "name": "Pale Baby Blue",
+        "r": 205,
+        "g": 223,
+        "b": 237
+    },
+    {
+        "code": "3842",
+        "name": "DK Wedgwood",
+        "r": 50,
+        "g": 102,
+        "b": 124
+    },
+    {
+        "code": "3843",
+        "name": "Electric Blue",
+        "r": 20,
+        "g": 170,
+        "b": 208
+    },
+    {
+        "code": "3844",
+        "name": "DK Bright Turquoise",
+        "r": 18,
+        "g": 174,
+        "b": 186
+    },
+    {
+        "code": "3845",
+        "name": "MD Bright Turquoise",
+        "r": 4,
+        "g": 196,
+        "b": 202
+    },
+    {
+        "code": "3846",
+        "name": "LT Bright Turquoise",
+        "r": 6,
+        "g": 227,
+        "b": 230
+    },
+    {
+        "code": "3847",
+        "name": "DK Teal Green",
+        "r": 52,
+        "g": 125,
+        "b": 117
+    },
+    {
+        "code": "3848",
+        "name": "MD Teal Green",
+        "r": 85,
+        "g": 147,
+        "b": 146
+    },
+    {
+        "code": "3849",
+        "name": "LT Teal Green",
+        "r": 82,
+        "g": 179,
+        "b": 164
+    },
+    {
+        "code": "3850",
+        "name": "DK Bright Green",
+        "r": 55,
+        "g": 132,
+        "b": 119
+    },
+    {
+        "code": "3851",
+        "name": "LT Bright Green",
+        "r": 73,
+        "g": 179,
+        "b": 161
+    },
+    {
+        "code": "3852",
+        "name": "V DK Straw",
+        "r": 205,
+        "g": 157,
+        "b": 55
+    },
+    {
+        "code": "3853",
+        "name": "DK Autumn Gold",
+        "r": 242,
+        "g": 151,
+        "b": 70
+    },
+    {
+        "code": "3854",
+        "name": "MD Autumn Gold",
+        "r": 242,
+        "g": 175,
+        "b": 104
+    },
+    {
+        "code": "3855",
+        "name": "LT Autumn Gold",
+        "r": 250,
+        "g": 211,
+        "b": 150
+    },
+    {
+        "code": "3856",
+        "name": "Ultra V LT Mahogany",
+        "r": 255,
+        "g": 211,
+        "b": 181
+    },
+    {
+        "code": "3857",
+        "name": "DK Rosewood",
+        "r": 104,
+        "g": 37,
+        "b": 26
+    },
+    {
+        "code": "3858",
+        "name": "MD Rosewood",
+        "r": 150,
+        "g": 74,
+        "b": 63
+    },
+    {
+        "code": "3859",
+        "name": "LT Rosewood",
+        "r": 186,
+        "g": 139,
+        "b": 124
+    },
+    {
+        "code": "3860",
+        "name": "Cocoa",
+        "r": 125,
+        "g": 93,
+        "b": 87
+    },
+    {
+        "code": "3861",
+        "name": "LT Cocoa",
+        "r": 166,
+        "g": 136,
+        "b": 129
+    },
+    {
+        "code": "3862",
+        "name": "DK Mocha Beige",
+        "r": 138,
+        "g": 110,
+        "b": 78
+    },
+    {
+        "code": "3863",
+        "name": "MD Mocha Beige",
+        "r": 164,
+        "g": 131,
+        "b": 92
+    },
+    {
+        "code": "3864",
+        "name": "LT Mocha Beige",
+        "r": 203,
+        "g": 182,
+        "b": 156
+    },
+    {
+        "code": "3865",
+        "name": "Winter White",
+        "r": 249,
+        "g": 247,
+        "b": 241
+    },
+    {
+        "code": "3866",
+        "name": "Ultra V LT Mocha Brown",
+        "r": 250,
+        "g": 246,
+        "b": 240
+    }
+]

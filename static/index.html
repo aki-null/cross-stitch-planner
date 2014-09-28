@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cross-stich Planner</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container">
+  <h1>Cross-stich Planner</h1>
+  <hr>
+  <form role="form" id="upload-form" method="post" enctype="multipart/form-data" onSubmit="return upload(this);">
+    <div class="form-group">
+      <label for="upload-form-file">Input file</label>
+      <input id="upload-form-file" name="input" type="file" accept="image/*;capture=camera"/>
+      <p class="help-block">The file must be a PNG file that is smaller than 256KB</p>
+    </div>
+    <input type="submit" name="submit" class="btn btn-primary">
+  </form>
+  <hr>
+  <img src="" id="result" alt="Plan output">
+</div>
+<script src="/js/jquery-2.1.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/custom.js"></script>
+</body>
+</html>
