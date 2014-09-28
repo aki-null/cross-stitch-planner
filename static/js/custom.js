@@ -14,6 +14,7 @@ function upload(form) {
           alert(data.message);
         } else {
           $("#result").attr("src", "data:image/png;base64," + data.body);
+          $("#output").show();
         }
       },
       error: function(XMLHttpRequest, textStatus, errorThrown) { }
